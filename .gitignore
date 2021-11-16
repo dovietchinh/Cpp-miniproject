@@ -1,0 +1,7 @@
+build/target/*
+.vscode
+*.o
+.vscode/
+build
+build2
+*.txt
